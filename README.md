@@ -5,7 +5,7 @@ Sebuah laman web suka-suka oleh aku `(Hakim)` sebagai satu platform perkongsian 
 
 Aku juga ingin membantu mereka yang selalu dikejar kaki `SCAM` Malaysia. Duit berhabis beli ebook yang bukan-bukan, tapi masih lagi tiada result. So, just follow me bcoz I'm the real scammner.
 
-Apa yang aku bincangkan dalam web ini ialah sekadar kongsi cerita - nak ikut boleh, kalau tak jadi don't blame me okay. Ini antara topik yang aku akan cover - ayat dah macam lecture IPTA dah, haha. Antara topik yang akan dikupas :
+Apa yang aku bincangkan dalam web ini ialah sekadar kongsi cerita - nak ikut boleh, kalau tak jadi don't blame me okay. Ini antara topik yang aku akan cover - ayat dah macam lecture `IPTA` dah, haha. Antara topik yang akan dikupas :
 
 * Affiliate - Jadi orang tengah yang makan komisyen
 * SEO - Teknik naik kan ranking website
@@ -22,7 +22,9 @@ Jom Bermula Bisnes Online
 
 Memandangkan korang newbie dan aku ex-newbie, korang kena ikut bulat-bulat apa aku ajar. Supaya tidak membazir masa yang dah suntuk dan wang ringgit yang tinggal syiling je. Pilih satu cara nak buat duit online ni, dana stick sampai berjaya. Jangan ikut aku, aku semua benda nak buat sebab aku full-time bisnes online. 
 
-Jadi, pilih satu dan all out buat sampai ada hasil. Kalau takda hasil, cari jalan sampai apa yang korang dah start bukan sia-sia. Jangan mengalah! Bisnes online ni makan masa, bukan cuba seminggu terus kaya. Rilex, pelan-pelan kayuh, nanti sampai juga destinasi `KEJAYAAN` [ `DEFINISI KEJAYAAN` - Berpendapatan pasif sebulan RM 5 000 ]
+Jadi, pilih satu dan all out buat sampai ada hasil. Kalau takda hasil, cari jalan sampai apa yang korang dah start bukan sia-sia. Jangan mengalah! Bisnes online ni makan masa, bukan cuba seminggu terus kaya. Rilex, pelan-pelan kayuh, nanti sampai juga destinasi `KEJAYAAN` yang kita semua idam-idam kan.
+
+`[ DEFINISI KEJAYAAN - Berpendapatan pasif sebulan RM 5 000 ]`
 
 Disclaimer
 ---------------
