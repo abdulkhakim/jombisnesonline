@@ -31,7 +31,7 @@ Disclaimer
 
 Segala bahasa yang aku gunakan dalam membentuk website ni adalah bahasa rojak - bahasa english Melayu - bahasa Melayu pasar. Jangan salahkan aku kalau aku tak ikut rule ber`BAHASA,` kalau aku ikut akan melambatkan penceritaan aku. Mohon maaf kepada guru-guru `BAHASA.` Bukan aku tak respek bahasa ibunda, tapi kita memang dilahirkan untuk tidak berbahasa `BAKU` - Cikgu pun sama kan ? Hehehe..
 
-Ok, itu saja. Semoga tiada siapa yang baca file Readme aku ni, haha..
+Ok, itu saja. Semoga tiada siapa yang baca file `README` aku ni, haha..
 
 Kejar `KEJAYAAN` dari sekarang - Insya Allah nanti bila dia dah penat berlari - `KEJAYAAN` akan jadi milik korang!
 
