@@ -25,7 +25,7 @@ Memandangkan korang newbie dan aku ex-newbie, korang kena ikut bulat-bulat apa a
 Jadi, pilih satu dan all out buat sampai ada hasil. Kalau takda hasil, cari jalan sampai apa yang korang dah start bukan sia-sia. Jangan mengalah! Bisnes online ni makan masa, bukan cuba seminggu terus kaya. Rilex, pelan-pelan kayuh, nanti sampai juga destinasi KEJAYAAN [ DEFINISI KEJAYAAN - Berpendapatan pasif sebulan RM 5 000 ]
 
 Disclaimer
-===
+---------------
 
 Segala bahasa yang aku gunakan dalam membentuk website ni adalah bahasa rojak - bahasa english Melayu - bahasa Melayu pasar. Jangan salahkan aku kalau aku tak ikut rule berBAHASA, kalau aku ikut akan melambatkan penceritaan aku. Mohon maaf kepada guru-guru BAHASA. Bukan aku tak respek bahasa ibunda, tapi kita memang dilahirkan untuk tidak berbahasa BAKU - Cikgu pun sama kan ? Hehehe..
 
