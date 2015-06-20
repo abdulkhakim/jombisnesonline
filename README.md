@@ -1,95 +1,37 @@
-Professionl
+Jom Bisnes Online
 ===
 
-Professionl is a classy WordPress theme built with bootstrap. It’s most suitable for blogs and websites of developers who want to make use of bootstrap css for custom designing their pages and posts. However, it is designed to be used by anyone without learning about bootstrap.
+Sebuah laman web suka-suka oleh aku (Hakim) sebagai satu platform perkongsian cerita pengembaraan aku dalam industri buat duit dari rumah aka bisnes online. Apa yang aku kongsikan, ikhlas dari lubuk hati ingin sama-sama berkongsi langkah-langkah untuk berjaya dalam industri yang baru nak berkembang kat Malaysia ni.
 
-Professionl is a responsive theme with the awesomeness of Font Awesome built right into it.
+Aku juga ingin membantu mereka yang selalu dikejar kaki SCAM Malaysia. Duit berhabis beli ebook yang bukan-bukan, tapi masih lagi tiada result. So, just follow me bcoz I'm the real scammner.
 
-You are free to use this theme as base and design your own themes. This theme, like WordPress, is licensed under the GPL. Use it to make something cool, have fun, and share what you’ve learned with others.
+Apa yang aku bincangkan dalam web ini ialah sekadar kongsi cerita - nak ikut boleh, kalau tak jadi don't blame me okay. Ini antara topik yang aku akan cover - ayat dah macam lecture IPTA dah, haha. Antara topik yang akan dikupas :
 
-My ultra-minimal CSS might make me look like theme tartare but that means less stuff to get in your way when you're designing your awesome theme. Here are some of the other more interesting things you'll find here:
+* Affiliate - Jadi orang tengah yang makan komisyen
+* SEO - Teknik naik kan ranking website
+* Hosting - Kedai website kita untuk bisnes online
+* Domain - Nama kedai website kita
+* FB Ads - Cara beriklan dengan Facebook
+* Adwords - Cara beriklan dengan Google
+* Adsense - Buat duit dengan Google AdSense
+* Freebies - Barang FREE untuk bisnes online
+* Payies - Barang kena BAYAR (betul ke eja dia macam tu, huhu)
 
-* A just right amount of lean, well-commented, modern, HTML5 templates.
-* A helpful 404 template.
-* A sample custom header implementation in `inc/custom-header.php` that can be activated by uncommenting one line in functions.php and adding the code snippet found the comments of `inc/custom-header.php` to your `header.php` template.
-* Custom template tags in `inc/template-tags.php` that keep your templates clean and neat and prevent code duplication.
-* Some small tweaks in `inc/extras.php` that can improve your theming experience.
-* A script at `js/navigation.js` that makes your menu a toggled dropdown on small screens (like your phone), ready for CSS artistry. It's enqueued in `functions.php`.
-* 2 sample CSS layouts in `layouts` for a sidebar on either side of your content.
-* Smartly organized starter CSS in `style.css` that will help you to quickly get your design off the ground.
-* Licensed under GPLv2 or later. :) Use it to make something cool.
-
-Getting Started
+Jom Bermula Bisnes Online
 ---------------
 
-If you want to keep it simple, head over to http://underscores.me and generate your `_s` based theme from there. You just input the name of the theme you want to create, click the "Generate" button, and you get your ready-to-awesomize starter theme.
+Memandangkan korang newbie dan aku ex-newbie, korang kena ikut bulat-bulat apa aku ajar. Supaya tidak membazir masa yang dah suntuk dan wang ringgit yang tinggal syiling je. Pilih satu cara nak buat duit online ni, dana stick sampai berjaya. Jangan ikut aku, aku semua benda nak buat sebab aku full-time bisnes online. 
 
-If you want to set things up manually, download `_s` from github. The first thing you want to do is copy the `_s` directory and change the name to something else - Like, say, `megatherium` - then you'll need to do a five-step find and replace on the name in all the templates.
+Jadi, pilih satu dan all out buat sampai ada hasil. Kalau takda hasil, cari jalan sampai apa yang korang dah start bukan sia-sia. Jangan mengalah! Bisnes online ni makan masa, bukan cuba seminggu terus kaya. Rilex, pelan-pelan kayuh, nanti sampai juga destinasi KEJAYAAN [ DEFINISI KEJAYAAN - Berpendapatan pasif sebulan RM 5 000 ]
 
-1. Search for `'_s'` (inside single quotations) to capture the text domain.
-2. Search for `_s_` to capture all the function names.
-3. Search for <code>&nbsp;_s</code> (with a space before it) to capture DocBlocks.
-4. Search for `_s-` to capture prefixed handles.
-5. Search for `Text Domain: _s` in style.css.
-
-OR
-
-* Search for: `'_s'` and replace with: `'megatherium'`
-* Search for: `_s_` and replace with: `megatherium_`
-* Search for: <code>&nbsp;_s</code> and replace with: <code>&nbsp;Megatherium</code>
-* Search for: `_s-` and replace with: `megatherium-`
-* Search for: `Text Domain: _s` and replace with: `Text Domain: megatherium` in style.css.
-
-Then, update the stylesheet header in style.css and the links in footer.php with your own information. Next, update or delete this readme.
-
-Now you're ready to go! The next step is easy to say, but harder to do: make an awesome WordPress theme. :)
-
-Good luck!
-Professionl
+Disclaimer
 ===
 
-Professionl is a classy WordPress theme built with bootstrap. It’s most suitable for blogs and websites of developers who want to make use of bootstrap css for custom designing their pages and posts. However, it is designed to be used by anyone without learning about bootstrap.
+Segala bahasa yang aku gunakan dalam membentuk website ni adalah bahasa rojak - bahasa english Melayu - bahasa Melayu pasar. Jangan salahkan aku kalau aku tak ikut rule berBAHASA, kalau aku ikut akan melambatkan penceritaan aku. Mohon maaf kepada guru-guru BAHASA. Bukan aku tak respek bahasa ibunda, tapi kita memang dilahirkan untuk tidak berbahasa BAKU - Cikgu pun sama kan ? Hehehe..
 
-Professionl is a responsive theme with the awesomeness of Font Awesome built right into it.
+Ok, itu saja. Semoga tiada siapa yang baca file Readme aku ni, haha..
 
-You are free to use this theme as base and design your own themes. This theme, like WordPress, is licensed under the GPL. Use it to make something cool, have fun, and share what you’ve learned with others.
-
-My ultra-minimal CSS might make me look like theme tartare but that means less stuff to get in your way when you're designing your awesome theme. Here are some of the other more interesting things you'll find here:
-
-* A just right amount of lean, well-commented, modern, HTML5 templates.
-* A helpful 404 template.
-* A sample custom header implementation in `inc/custom-header.php` that can be activated by uncommenting one line in functions.php and adding the code snippet found the comments of `inc/custom-header.php` to your `header.php` template.
-* Custom template tags in `inc/template-tags.php` that keep your templates clean and neat and prevent code duplication.
-* Some small tweaks in `inc/extras.php` that can improve your theming experience.
-* A script at `js/navigation.js` that makes your menu a toggled dropdown on small screens (like your phone), ready for CSS artistry. It's enqueued in `functions.php`.
-* 2 sample CSS layouts in `layouts` for a sidebar on either side of your content.
-* Smartly organized starter CSS in `style.css` that will help you to quickly get your design off the ground.
-* Licensed under GPLv2 or later. :) Use it to make something cool.
-
-Getting Started
----------------
-
-If you want to keep it simple, head over to http://underscores.me and generate your `_s` based theme from there. You just input the name of the theme you want to create, click the "Generate" button, and you get your ready-to-awesomize starter theme.
-
-If you want to set things up manually, download `_s` from github. The first thing you want to do is copy the `_s` directory and change the name to something else - Like, say, `megatherium` - then you'll need to do a five-step find and replace on the name in all the templates.
-
-1. Search for `'_s'` (inside single quotations) to capture the text domain.
-2. Search for `_s_` to capture all the function names.
-3. Search for <code>&nbsp;_s</code> (with a space before it) to capture DocBlocks.
-4. Search for `_s-` to capture prefixed handles.
-5. Search for `Text Domain: _s` in style.css.
-
-OR
-
-* Search for: `'_s'` and replace with: `'megatherium'`
-* Search for: `_s_` and replace with: `megatherium_`
-* Search for: <code>&nbsp;_s</code> and replace with: <code>&nbsp;Megatherium</code>
-* Search for: `_s-` and replace with: `megatherium-`
-* Search for: `Text Domain: _s` and replace with: `Text Domain: megatherium` in style.css.
-
-Then, update the stylesheet header in style.css and the links in footer.php with your own information. Next, update or delete this readme.
-
-Now you're ready to go! The next step is easy to say, but harder to do: make an awesome WordPress theme. :)
+Kejar KEJAYAAN dari sekarang - Insya Allah nanti bila dia dah penat berlari - KEJAYAAN akan jadi milik korang!
 
 Good luck!
 
