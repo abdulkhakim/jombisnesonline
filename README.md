@@ -3,7 +3,7 @@ Jom Bisnes Online
 
 Sebuah laman web suka-suka oleh aku (Hakim) sebagai satu platform perkongsian cerita pengembaraan aku dalam industri buat duit dari rumah aka bisnes online. Apa yang aku kongsikan, ikhlas dari lubuk hati ingin sama-sama berkongsi langkah-langkah untuk berjaya dalam industri yang baru nak berkembang kat Malaysia ni.
 
-Aku juga ingin membantu mereka yang selalu dikejar kaki SCAM Malaysia. Duit berhabis beli ebook yang bukan-bukan, tapi masih lagi tiada result. So, just follow me bcoz I'm the real scammner.
+Aku juga ingin membantu mereka yang selalu dikejar kaki 'SCAM' Malaysia. Duit berhabis beli ebook yang bukan-bukan, tapi masih lagi tiada result. So, just follow me bcoz I'm the real scammner.
 
 Apa yang aku bincangkan dalam web ini ialah sekadar kongsi cerita - nak ikut boleh, kalau tak jadi don't blame me okay. Ini antara topik yang aku akan cover - ayat dah macam lecture IPTA dah, haha. Antara topik yang akan dikupas :
 
